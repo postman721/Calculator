@@ -8,6 +8,7 @@ Calculator v.1 Copyright (c) 2017 JJ Posti <techtimejourney.net> This program co
 Features include all the basic calculator features.
 Hint. To input something like 5.0 to the calculator, click the text-field and type 5.0 using the keyboard´s numeric keys and the dot key.
 
+By default, Calculator returns results in the form of x.y(for example, 2.0). 
 _______________________________
 
 <b>Still to implement</b> 
